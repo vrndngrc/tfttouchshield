@@ -1,0 +1,3 @@
+The Arduino library released is customized display and touch function library by ITEAD for touch shield, which is cut from Henning’s UTFT library, while functions of touch are added. At present, it supports 2.4-inch, 2.8-inch and 3.2-inch touch shields and Arduino Dumilanove, Arduino UNO, Arduino Mega and Arduino Leonardo as Arduino main boards.
+
+![http://imall.iteadstudio.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/m/im120417012_8.jpg](http://imall.iteadstudio.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/m/im120417012_8.jpg)
